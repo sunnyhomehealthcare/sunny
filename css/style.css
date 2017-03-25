@@ -181,12 +181,12 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/background_bunka.jpg) no-repeat center top;
+	background: url(../img/background.jpg) no-repeat center top;
 	/*background-color: #7bc3d1;*/
-	-webkit-background-size: contain;
-	-moz-background-size: contain;
-	background-size: contain;
-	-o-background-size: contain;
+	-webkit-background-size: auto;
+	-moz-background-size: auto;
+	background-size: auto;
+	-o-background-size: auto;
 }
 .section-title.center {
 	padding: 25px 0 45px 0;
